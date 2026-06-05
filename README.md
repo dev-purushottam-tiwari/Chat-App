@@ -2,7 +2,7 @@
 
 QuickChat is a modern real-time chat application built using the MERN stack with Socket.IO for instant messaging. Users can create accounts, authenticate securely, and chat in real time with a clean and responsive UI.
 
-## 🌐 [Live Website](https://mern-chatapp-umber.vercel.app)
+## 🌐 [Live Website](https://chat-app-sandy-theta-77.vercel.app/)
 
 ---
 
@@ -77,7 +77,7 @@ AND your cloundinary keys
 ## Clone Repository
 
 ```bash
-git clone https://github.com/dev-himanshu-sharma/mern-chatapp.git
+git clone https://github.com/dev-purushottam-tiwari/mern-chatapp.git
 ```
 
 ## Install Dependencies
