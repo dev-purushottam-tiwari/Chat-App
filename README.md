@@ -58,8 +58,7 @@ chatapp/
 ## Frontend (.env)
 
 ```env
-VITE_BACKEND_URL=https://mern-chatapp-wf9x.onrender.com
-```
+VITE_BACKEND_URL = 'https://chat-app-surt.onrender.com'```
 
 ## Backend (.env)
 
@@ -123,10 +122,10 @@ npm run dev
 
 # 👨‍💻 Author
 
-Himanshu Sharma
+Purushottam-Tiwari
 
-* GitHub: https://github.com/dev-himanshu-sharma
-* LinkedIn: https://www.linkedin.com/in/dev-himanshusharma
+* GitHub: https://github.com/dev-purushottam-tiwari
+* LinkedIn: https://www.linkedin.com/in/purushottam-kr-tiwari
 
 ---
 
